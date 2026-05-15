@@ -1,6 +1,4 @@
-**Entrega:** 1era Entrega - Modelo Relacional
-
-**Relacional (MySQL):** No existen facturas huerfanas ni inconsistencias en los registros de clientes y productos con el uso de Foreign Keys.
+**Entrega:** 1era Entrega - Relacional (MySQL)
 
 1.  **`creacion_tablas.sql`**: Deficion de la estructura de la base de datos y sus relaciones.
 2.  **`inserciones_dump.sql`**: Contiene todas las inserciones de los datos importados automaticamente con el Data Import Wizard.
